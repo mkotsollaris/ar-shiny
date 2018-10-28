@@ -24,5 +24,5 @@ HomeStack.navigationOptions = {
 };
 
 export default createBottomTabNavigator({
-  HomeStack
+  HomeStack,
 });
